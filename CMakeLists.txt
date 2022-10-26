@@ -43,7 +43,6 @@ include_directories(${INCLUDE_DIR}
                     ${INCLUDE_DIR}/cjson
                     ${INCLUDE_DIR}/msgpack
                     ${INCLUDE_DIR}/rbus
-		    ${INCLUDE_DIR}/rbus-core
 		    ${INCLUDE_DIR}/rtmessage
 		    ${INCLUDE_DIR}/wdmp-c
 		    ${INCLUDE_DIR}/cimplog
